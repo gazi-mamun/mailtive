@@ -10,25 +10,25 @@ Mailtive is a versatile CLI tool designed to validate email addresses with preci
 
 ## Usage/Examples
 
-- To validate a single emails without the possibility to display the validation failure cause:
+- To validate a single email without the possibility to display the validation failure cause:
 
 ```bash
   mailtive email-address
 ```
 
-- To validate a single emails with the possibility to display the validation failure cause:
+- To validate a single email with the possibility to display the validation failure cause:
 
 ```bash
   mailtive single
 ```
 
-- To validate an email list:
+- To find valid email addresses from a list:
 
 ```bash
-  mailtive single
+  mailtive list
 ```
 
-`Note: To validate a list of emails, you'll need a.txt file containing your emails, with each email starting on a new line.`
+`Note: To find valid email addresses from a list, you'll need a .txt file containing your emails, with each email starting on a new line.`
 
 ## License
 
