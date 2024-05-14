@@ -1,6 +1,6 @@
 {
   "name": "mailtive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mailtive is a versatile CLI tool designed to validate email addresses with precision and efficiency. It employs advanced techniques such as email format validation, disposable email blacklist checks, DNS records verification, and SMTP server response analysis. With support for bulk email validation, Mailtive ensures the accuracy and reliability of your email lists, making it an essential tool for developers, marketers, and businesses alike.",
   "main": "index.js",
   "preferGlobal": true,
